@@ -1,13 +1,13 @@
-title: Parchment
-author: pro-panda
+title: dangiaon
+author: dangiaon
 subtitle: The life of a frustrated engineer
 
 url: "https://dangiaon.github.io"
 baseurl: "/blog"
 
 footer_only_homepage: true
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: "https://github.com/blog"
+footer_text: "Theme by dangiaon"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
