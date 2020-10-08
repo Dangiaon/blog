@@ -13,7 +13,7 @@ $small-width: 480px;
 
 body {
     margin: 0;
-    font-family: "simsunb";
+    font-family: "Noto Sans CJK SC";
     background-color: #FFFFDD;
     min-height: 100%;
 }
@@ -297,6 +297,6 @@ table tr th :last-child, table tr td :last-child {
 
 
 @font-face {
-    font-family: "simsunb";
-    src: url("/assets/fonts/simsunb.ttf");
+    font-family: "Noto Sans CJK SC";
+    src: url("/assets/fonts/Noto Sans CJK SC.ttf");
 }
