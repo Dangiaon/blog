@@ -2,6 +2,11 @@
 ---
 
 @font-face {
-    font-family: "Noto Sans CJK SC";
-    src: url("/assets/fonts/Noto Sans CJK SC.ttf");
+    font-family: "simsunb";
+    src: url("/assets/fonts/simsunb.ttf");
+}
+
+body {
+    font-family: "Inconsolata", "simsunb"; 
+    font-size: 20px;  
 }
