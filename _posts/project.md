@@ -1,3 +1,10 @@
+---
+layout: post
+title: Infinite Monkey Theorem
+subtitle: as crazy as it sounds...
+tags: [math, tech]
+---
+
 GitHub Pages简介
 
 GitHub
