@@ -1,5 +1,5 @@
 # Site settings
-title_left    : "Yes, here are all articles"
+title_left    : "blog"
 title_right   : "" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, blog, web, minimalist"
